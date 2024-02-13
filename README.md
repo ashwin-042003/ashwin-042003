@@ -3,7 +3,7 @@
 <p align="center">
 <br>
 
-<p align="center"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3k5tT01Tisjq2N1OS45pbnYkdBbrUv9nvIQ&usqp=CAU" alt="ashwin-042003" /> </p>
+<p align="center"> <img src="https://blog.zohowebstatic.com/sites/zblogs/images/cliq/new-converted-2019-08.gif" alt="ashwin-042003" height =400 width=400/> </p>
 
 - 🔭 I’m currently working on *Java Training*
 
